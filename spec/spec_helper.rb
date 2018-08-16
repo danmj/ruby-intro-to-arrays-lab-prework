@@ -1,7 +1,7 @@
 
 RSpec.configure do |config|
 
-  def __
+  def my_new_arrau
     # raise "replace underscore with code"
   end
 
