@@ -1,3 +1,3 @@
-def newarray(array)
-  array
+def newarray()
+  myarray = []
 end
