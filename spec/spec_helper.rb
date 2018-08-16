@@ -22,7 +22,7 @@ RSpec.configure do |config|
     taylor_swift[-1]
   end
   
-  def first_element_with_aray_methods(south_east_asia)
+  def first_element_with_array_methods(south_east_asia)
     first_country = south_east_asia.first
   end
   
