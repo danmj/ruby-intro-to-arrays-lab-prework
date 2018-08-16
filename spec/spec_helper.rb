@@ -31,6 +31,6 @@ RSpec.configure do |config|
   end
   
   def length_of_array(programming_languages)
-    
+    programming_languages.length
   
 end
