@@ -10,6 +10,7 @@ RSpec.configure do |config|
     @my_two_aray = [0, 1]
   end
   
-  
+  def first_element(array)
+    
 
 end
