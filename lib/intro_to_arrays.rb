@@ -1,4 +1,3 @@
 def newarray()
-  myarray = []
-  return myarray
+  @myarray = []
 end
