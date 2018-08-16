@@ -23,7 +23,7 @@ RSpec.configure do |config|
   end
   
   def first_element_with_aray_methods(south_east_asia)
-    first_country = "Thailand"
+    first_country = 
   end
   
 end
