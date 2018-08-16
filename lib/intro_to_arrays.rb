@@ -1,0 +1,2 @@
+def newarray(array)
+  
