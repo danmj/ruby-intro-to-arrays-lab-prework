@@ -22,6 +22,6 @@ RSpec.configure do |config|
     taylor_swift[-1]
   end
   
-  
+  def first_element_with_aray_methods
   
 end
